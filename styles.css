@@ -1,0 +1,20 @@
+.mainPage {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.firstName {
+  color: rgb(217, 62, 62);
+}
+
+#viewWorkBtn {
+  color: rgb(217, 62, 62);
+}
+
+.list {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
